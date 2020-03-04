@@ -134,9 +134,9 @@ URL-REGEX,^https?:\/\/oimage([a-z])([0-9])\.ydstatic\.com\/.+?&product=adpublish
 URL-REGEX,^https?:\/\/p[^4](c)?\.music\.126\.net\/\w+==\/10995\d{13}\.jpg$
 URL-REGEX,^https?:\/\/dsp-impr2\.youdao\.com\/adload.s\?
 URL-REGEX,^https?:\/\/interface\.music\.163\.com\/eapi\/ad\/
-URL-REGEX,^https?:\/\/.+\/client?functionId=lauch\/lauchConfig&appName=paidaojia
-URL-REGEX,^https?:\/\/111\.13\.29\.201\/client\.action\?functionId=start
-URL-REGEX,^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start
+URL-REGEX,^https?:\/\/.+\/client?Id=lauch\/lauchConfig&appName=paidaojia
+#URL-REGEX,^https?:\/\/111\.13\.29\.201\/client\.action\?functionId=start
+#URL-REGEX,^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start
 URL-REGEX,^https?:\/\/bdsp-x\.jd\.com\/adx\/
 URL-REGEX,^https?:\/\/m\.360buyimg\.com\/mobilecms\/s640x1136_jfs\/
 URL-REGEX,^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/base\/na\/m\/adInfo
