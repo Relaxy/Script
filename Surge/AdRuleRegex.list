@@ -332,8 +332,8 @@ URL-REGEX,^https?:\/\/gw\.aihuishou\.com\/app-portal\/home\/getadvertisement
 URL-REGEX,^https?:\/\/app\.58\.com\/api\/log\/
 URL-REGEX,^https?:\/\/www\.duokan\.com/pictures?
 URL-REGEX,^https?:\/\/www\.duokan\.com/promotion_day
-URL-REGEX,^https?:\/\/api\d?\.tiktokv\.com\/api\/ad\/
-URL-REGEX,^https?:\/\/api\d?\.musical\.ly\/api\/ad\/
+//URL-REGEX,^https?:\/\/api\d?\.tiktokv\.com\/api\/ad\/
+//URL-REGEX,^https?:\/\/api\d?\.musical\.ly\/api\/ad\/
 URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.com\/v1\/public\/getStartPageAds
 URL-REGEX,^https?:\/\/b-api\.ins\.miaopai\.com\/1\/ad/
 URL-REGEX,^https?:\/\/api5\.futunn\.com\/ad\/
@@ -407,7 +407,7 @@ URL-REGEX,^https?:\/\/a\.apicloud\.com\/start_page\/
 URL-REGEX,^https?:\/\/cover.baidu.com\/cover\/page\/dspSwitchAds\/
 URL-REGEX,^https?:\/\/c\.tieba\.baidu\.com\/c\/s\/splashSchedule
 URL-REGEX,^https?:\/\/.+\/client\/phpui2\/
-URL-REGEX,^https?:\/\/.+\.(musical|snssdk)\.(com|ly)\/(api|motor)\/ad\/
+//URL-REGEX,^https?:\/\/.+\.(musical|snssdk)\.(com|ly)\/(api|motor)\/ad\/
 URL-REGEX,^https?:\/\/dsp\.toutiao\.com\/api\/xunfei\/ads\/
 URL-REGEX,^https?:\/\/.+\.snssdk\.com\/motor\/operation\/activity\/display\/config\/V2\/
 URL-REGEX,^https?:\/\/7n\.bczcdn\.com\/launchad\/
@@ -533,7 +533,7 @@ URL-REGEX,^https?:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.taobao\.wireless\.hom
 URL-REGEX,^https?:\/\/m\d\.amap\.com\/ws\/valueadded\/alimama\/splash_screen\/
 URL-REGEX,^https?:\/\/.+\.applovin\.com\/.+\/ad
 URL-REGEX,^https?:\/\/c\.tieba\.baidu\.com\/c\/f\/forum\/getAdInfo
-URL-REGEX,^https?:\/\/.+\.(musical|snssdk|tiktokv)\.(com|ly)\/(api|motor)\/ad\/
+//URL-REGEX,^https?:\/\/.+\.(musical|snssdk|tiktokv)\.(com|ly)\/(api|motor)\/ad\/
 URL-REGEX,^https?:\/\/channel\.beitaichufang\.com\/channel\/api\/v\d\/promote\/ios\/start\/page
 URL-REGEX,^https?:\/\/mlife\.jf365\.boc\.cn\/AppPrj\/FirstPic\.do\?
 URL-REGEX,^https?:\/\/status\.boohee\.com\/api\/v\d\/app_square\/start_up_with_ad
